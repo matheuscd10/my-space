@@ -110,7 +110,7 @@ export default {
       { property: "og:title", content: "Matheus Space" },
       { property: "og:site_name", content: "Matheus Space" },
       { property: "og:type", content: "website" },
-      { property: "og:url", content: "https://eldin.space" },
+      { property: "og:url", content: "https://matheus.space" },
       {
         property: "og:image",
         content: "https://i.imgur.com/Dcz2PGx.jpg"
@@ -136,7 +136,7 @@ export default {
           icon: "fab fa-linkedin-in"
         },
         /*{
-          href: "https://www.xing.com/profile/Eldin_Zaimovic?sc_o=mxb_p",
+          href: "https://www.xing.com/profile/matheus_Zaimovic?sc_o=mxb_p",
           icon: "fab fa-xing"
         },*/
         {

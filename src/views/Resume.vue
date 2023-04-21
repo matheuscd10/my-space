@@ -99,7 +99,7 @@ export default {
       { property: "og:title", content: "Matheus Space" },
       { property: "og:site_name", content: "Matheus Space" },
       { property: "og:type", content: "website" },
-      { property: "og:url", content: "https://eldin.space" },
+      { property: "og:url", content: "https://matheus.space" },
       {
         property: "og:image",
         content: "https://i.imgur.com/Dcz2PGx.jpg"

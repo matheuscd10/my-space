@@ -8,7 +8,7 @@
         </h2>
         <div class="py-4 subheading font-weight-bold">
           <v-icon large color="green" left>fas fa-map-marker-alt</v-icon>
-          <span>Nonoai,&nbsp;</span>
+          <span>Nonoai-RS,&nbsp;</span>
           <span class="green--text">Brazil</span>
         </div>
         <div class="py-4 subheading font-weight-bold">
