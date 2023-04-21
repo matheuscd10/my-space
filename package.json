@@ -2,7 +2,7 @@
   "name": "matheus-space-vue",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://acdias.github.io/vue-pages",
+  "homepage": "http://matheuscd10.github.io/my-space",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
